@@ -1,0 +1,8 @@
+streamlit
+torch
+opencv-python
+ultralytics
+google-generativeai
+grad-cam
+numpy
+Pillow
