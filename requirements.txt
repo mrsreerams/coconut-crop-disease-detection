@@ -6,3 +6,6 @@ google-generativeai
 grad-cam
 numpy
 Pillow
+matplotlib
+seaborn
+scikit-learn
